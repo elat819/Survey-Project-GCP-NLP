@@ -1,7 +1,11 @@
-from flask import Flask,render_template,request
+from flask import Flask,redirect,render_template,request,url_for
  
 app = Flask(__name__)
- 
+
+@app.route('/')
+def my_form():
+    return redirect(url_for('form'))
+
 @app.route('/form')
 def form():
     return render_template('form.html')
@@ -15,4 +19,3 @@ def data():
         return render_template('data.html',form_data = form_data)
  
 app.run(host='127.0.0.1', port=8080, debug=True)
-#app.run(host='localhost', port=5000)
