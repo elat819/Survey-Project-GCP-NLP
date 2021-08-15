@@ -14,5 +14,5 @@ def data():
         form_data = request.form
         return render_template('data.html',form_data = form_data)
  
- 
-app.run(host='localhost', port=5000)
+app.run(host='127.0.0.1', port=8080, debug=True)
+#app.run(host='localhost', port=5000)
