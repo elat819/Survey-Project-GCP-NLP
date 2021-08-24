@@ -1,5 +1,4 @@
-pandas
-numpy
 sys
 google-cloud-automl
 requests
+json
