@@ -1,4 +1,3 @@
-sys
 google-cloud-automl
 requests
 json
