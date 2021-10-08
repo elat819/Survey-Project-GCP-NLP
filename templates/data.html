@@ -1,3 +1,7 @@
 <form action="/data" method = "POST">
-    <p>Response Classification: <input type = "text" name = "Class" /></p>
+    <h3>Our NLP model classifies this as:</h3>
+    <script>
+        var test = '{{form_data}}'
+        document.body.innerHTML+=test
+    </script></body>
 </form>
