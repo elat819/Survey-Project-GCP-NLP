@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "gcp-project-319802",
+  "private_key_id": "8080f4b34652398558839e5de64529ce5753a4e9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQChtrvcgCRLuU/l\nh0HgxHikjVWOtVAIek2lNPNaVro9QAV/vM69OP/BgQP3qgQrcXn0OYTQQS7jp9j0\npM+UDi1eqBSebQda19jJjWjQ8F69Kj7MqQCf6dIMxFgSO3oG1gyCCXnzPcejrZpA\n1KVUG2staX1Y/Xkn6gXNHpRcY6avuc+Kg8/4bXsevdtWaoChIaEln5zT4Bbichk+\noC0Uc0BoberH1i7XBbEvYfAYjGE7UDEqQ0QTv2PNw1AuY7N/hYWvyXSSJTrattHU\nCal91tzcNvdBKE10NnB3q9RxlfJ0HyI1DDQ86gx36lOVm4rkAmoUtiHreYejBTcf\nrLmAydGvAgMBAAECggEAR2t87JVrckYVkzl5Ttt2rLX+41gQUK4zPJN2Jp/HAOYV\nh6TLaaaSzdM8/VSJIuarBcGhdphTLRgkKWfghXL9dqCk+pMMfIJ3rAxYDm8aaFEQ\nCzNYo0eRDTJp8yNxcTN3sractWDDmvZA+gDwQ4UYgKXmRjcsGwSwKzcmLueT5mdm\nBX/LvmRItNgTjOfIRoSH6JPqXT1tTBl7PWG7yxCxiARtBiHoWzBanZC/QZlxMFFX\nYhrEqZ0g3DLX0jPhVwKeHS4SVAxaOKvCSKY4BFcQsntPEEWP1yyVt1CAyAtICeEj\n/1hFUPjIlVL5Ns0V3HDiw8sSa8JCJ3Gsl9bdsyxYgQKBgQDRcbam4Q3Dm02D1ApA\n0TYQfBgbYMm0fQhxwdF3d1Dhc+zHzLiz6wWlraFmaazqMQB7yYG464Q/ZCSE8DDh\nedfHlCMkrAckAIQ4n3+jEmou0RGE0AulQI9ruexoKnYTkYknNhhMx3Pl3L7KeA7D\n92kafqSmLtKAYWYyxgkUlZx2xQKBgQDFqPQQ6IhEzksMmp3DJx8XIHBFb+e7m42I\nt9iIyC+P15Uv6ClheZRNC+lSeLzE7bP5aoBjEdsaSFTjQX3KtWelxO9WiAWfXpo7\nV49BVn0NDpP00OBe7RF3DPDhqM3u1KLgh0OtWygXexXllF3S3mNCYksGXGGQKB1a\nlwanzTqN4wKBgQCi8R6ykaANr8MMbmhTqO+wv3pZwmDqA+QP7EOz96V64J8zibeg\ncZWBIaXRcSFPSTQhGdHMNZ47WwN2UQ8WO5597Gey3groHWbAToYULf1h0tEYTGri\n82kg3BJpr68Q5kaXtOQOx5UJHUVpayHBn7erHx+lEgQ+UIgbtCnYU9TYKQKBgH87\ntG+13xG7YR/p3yeh5Sdz4BEyaY6gIMki3qWdhtAmy4edABYYtteplTVbNtfk0vb4\nEVC0S79tVAc9PwXfI6rXS+D9ifD+anVMdZBvZeujuKXcVrGEFLv3fo8jo/vasEWr\njGroxLPorT2s9YApWud+ciDUEpFC4TJRCR22w7xVAoGADH1c7iNP+3XYODX3Ulyp\nt3kYxI1j/HvtrQXoqpqbbkRgVMbvaZr0MM/Jl4tlMZHpnhmv7qEdnI+U/aCRQ2f4\nPa2eJbx08ItgoGAofhEjHDyfGuxfrlBDf7Hopy1iH3IbTh5UA5t+tsc+BVwmhEIS\n/LRC4VjZ6V+iwA4iCmH1370=\n-----END PRIVATE KEY-----\n",
+  "client_email": "nlp-sentiment-acct@gcp-project-319802.iam.gserviceaccount.com",
+  "client_id": "110029698359666311683",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/nlp-sentiment-acct%40gcp-project-319802.iam.gserviceaccount.com"
+}
